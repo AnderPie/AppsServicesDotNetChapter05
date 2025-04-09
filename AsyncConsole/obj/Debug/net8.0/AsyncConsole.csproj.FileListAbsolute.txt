@@ -1,0 +1,15 @@
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter05\AsyncConsole\bin\Debug\net8.0\AsyncConsole.exe
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter05\AsyncConsole\bin\Debug\net8.0\AsyncConsole.deps.json
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter05\AsyncConsole\bin\Debug\net8.0\AsyncConsole.runtimeconfig.json
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter05\AsyncConsole\bin\Debug\net8.0\AsyncConsole.dll
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter05\AsyncConsole\bin\Debug\net8.0\AsyncConsole.pdb
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter05\AsyncConsole\obj\Debug\net8.0\AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter05\AsyncConsole\obj\Debug\net8.0\AsyncConsole.AssemblyInfoInputs.cache
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter05\AsyncConsole\obj\Debug\net8.0\AsyncConsole.AssemblyInfo.cs
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter05\AsyncConsole\obj\Debug\net8.0\AsyncConsole.csproj.CoreCompileInputs.cache
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter05\AsyncConsole\obj\Debug\net8.0\AsyncConsole.sourcelink.json
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter05\AsyncConsole\obj\Debug\net8.0\AsyncConsole.dll
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter05\AsyncConsole\obj\Debug\net8.0\refint\AsyncConsole.dll
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter05\AsyncConsole\obj\Debug\net8.0\AsyncConsole.pdb
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter05\AsyncConsole\obj\Debug\net8.0\AsyncConsole.genruntimeconfig.cache
+C:\Users\fuzzy\Desktop\csdotnet\AppsAndServicesDotNet\Chapter05\AsyncConsole\obj\Debug\net8.0\ref\AsyncConsole.dll
